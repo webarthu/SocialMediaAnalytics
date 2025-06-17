@@ -1,0 +1,1001 @@
+idade,trabalha,horas_dia_num,impacto_relacoes,plataforma_mais_usada,horario_pico
+48,Sim,3.77,No Change,Twitter,Noite
+38,Sim,3.68,No Change,Facebook,Noite
+24,Não,7.92,No Change,YouTube,Manha
+52,Sim,4.11,Worsened,Twitter,Noite
+17,Não,4.67,No Change,Instagram,Manha
+30,Sim,4.67,No Change,Facebook,Noite
+48,Sim,3.88,No Change,YouTube,Noite
+28,Sim,3.6,No Change,Facebook,Noite
+32,Sim,3.52,No Change,Instagram,Noite
+20,Sim,4.71,Worsened,YouTube,Noite
+20,Sim,5.37,No Change,Facebook,Noite
+33,Sim,3.54,Improved,TikTok,Noite
+45,Sim,4.93,No Change,Instagram,Noite
+49,Sim,4.12,No Change,Instagram,Noite
+33,Sim,3.69,Worsened,Instagram,Noite
+12,Não,7.16,Improved,TikTok,Manha
+31,Sim,3.89,Improved,TikTok,Noite
+11,Não,7.25,No Change,Twitter,Noite
+33,Sim,3.41,No Change,Facebook,Noite
+53,Sim,4.56,Worsened,Twitter,Noite
+39,Sim,4.47,Improved,Facebook,Noite
+47,Sim,3.6,Worsened,TikTok,Noite
+11,Não,6.65,Improved,TikTok,Tarde
+30,Sim,3.92,Worsened,Twitter,Noite
+42,Sim,4.46,Improved,YouTube,Noite
+21,Não,4.16,Improved,Twitter,Manha
+31,Sim,4.42,No Change,Facebook,Noite
+53,Sim,4.81,Worsened,Twitter,Noite
+34,Sim,3.26,Worsened,Instagram,Noite
+58,Sim,4.19,No Change,Facebook,Noite
+36,Sim,4.2,Worsened,Facebook,Noite
+51,Sim,3.71,Improved,YouTube,Noite
+37,Sim,3.92,Worsened,TikTok,Noite
+25,Sim,3.08,No Change,Facebook,Noite
+24,Não,7.16,Worsened,TikTok,Manha
+56,Sim,4.59,Worsened,Twitter,Noite
+60,Sim,3.55,Worsened,Instagram,Noite
+53,Sim,4.75,No Change,YouTube,Noite
+12,Não,7.89,No Change,TikTok,Manha
+46,Sim,4.9,Worsened,Facebook,Noite
+60,Sim,4.03,Improved,TikTok,Noite
+16,Não,5.93,Worsened,Facebook,Tarde
+30,Sim,4.18,Worsened,TikTok,Noite
+18,Não,5.97,Improved,Facebook,Noite
+48,Sim,3.41,Worsened,Twitter,Noite
+27,Sim,4.52,No Change,Facebook,Noite
+13,Não,6.77,Worsened,Facebook,Noite
+34,Sim,4.84,Worsened,Instagram,Noite
+23,Sim,6.31,Improved,Facebook,Noite
+59,Sim,4.73,No Change,Instagram,Noite
+18,Não,5.82,Worsened,YouTube,Noite
+35,Sim,4.2,No Change,Instagram,Noite
+11,Não,7.18,No Change,Twitter,Noite
+29,Sim,4.91,No Change,Instagram,Noite
+37,Sim,3.4,No Change,YouTube,Noite
+56,Sim,3.22,No Change,Twitter,Noite
+16,Não,4.01,No Change,TikTok,Manha
+53,Sim,4.69,Improved,TikTok,Noite
+17,Não,4.96,No Change,Instagram,Noite
+56,Sim,4.77,Improved,Instagram,Noite
+44,Sim,3.9,Improved,YouTube,Noite
+23,Sim,7.89,Improved,YouTube,Noite
+26,Sim,3.44,Improved,Facebook,Noite
+45,Sim,4.47,No Change,YouTube,Noite
+59,Sim,4.53,No Change,Facebook,Noite
+49,Sim,4.86,Worsened,Twitter,Noite
+13,Não,6.06,Improved,Instagram,Noite
+11,Não,7.39,Worsened,Twitter,Tarde
+15,Não,7.27,Worsened,YouTube,Manha
+51,Sim,3.72,No Change,Twitter,Noite
+13,Não,7.61,Worsened,Twitter,Noite
+38,Sim,3.42,Worsened,Twitter,Noite
+27,Sim,4.91,Improved,YouTube,Noite
+35,Sim,3.02,No Change,Twitter,Noite
+53,Sim,5.0,Worsened,Facebook,Noite
+43,Sim,4.35,Worsened,YouTube,Noite
+19,Sim,4.36,Improved,Twitter,Noite
+45,Sim,3.0,Worsened,YouTube,Noite
+23,Sim,6.95,Worsened,TikTok,Noite
+40,Sim,4.67,Worsened,Facebook,Noite
+57,Sim,4.48,Worsened,Twitter,Noite
+24,Sim,4.02,Worsened,TikTok,Noite
+17,Não,7.08,Improved,TikTok,Manha
+23,Sim,7.54,Improved,YouTube,Noite
+32,Sim,4.4,No Change,TikTok,Noite
+49,Sim,3.21,Worsened,Facebook,Noite
+30,Sim,3.8,No Change,Facebook,Noite
+25,Sim,4.45,No Change,Instagram,Noite
+54,Sim,3.56,No Change,Facebook,Noite
+27,Sim,4.37,No Change,TikTok,Noite
+56,Sim,3.05,Worsened,Facebook,Noite
+33,Sim,3.61,Worsened,YouTube,Noite
+35,Sim,4.1,No Change,Instagram,Noite
+34,Sim,4.26,No Change,TikTok,Noite
+54,Sim,4.15,No Change,Instagram,Noite
+50,Sim,4.4,No Change,TikTok,Noite
+38,Sim,3.01,No Change,YouTube,Noite
+24,Sim,6.09,No Change,Instagram,Noite
+54,Sim,3.6,No Change,Twitter,Noite
+10,Não,6.15,Improved,TikTok,Noite
+34,Sim,4.68,Improved,Twitter,Noite
+16,Não,6.83,No Change,Instagram,Tarde
+18,Não,6.84,No Change,Twitter,Noite
+33,Sim,3.42,No Change,Twitter,Noite
+10,Não,7.73,Worsened,Instagram,Noite
+53,Sim,4.61,No Change,YouTube,Noite
+17,Não,4.61,Improved,Twitter,Noite
+33,Sim,4.81,Worsened,Twitter,Noite
+20,Sim,6.33,No Change,YouTube,Noite
+60,Sim,4.68,Worsened,Twitter,Noite
+26,Sim,4.1,No Change,Twitter,Noite
+17,Não,7.92,Worsened,Twitter,Manha
+44,Sim,3.43,Worsened,Facebook,Noite
+44,Sim,3.83,Worsened,YouTube,Noite
+42,Sim,4.52,Worsened,Twitter,Noite
+14,Não,6.38,Improved,YouTube,Noite
+51,Sim,4.01,Improved,TikTok,Noite
+48,Sim,3.9,Worsened,TikTok,Noite
+50,Sim,4.17,No Change,Twitter,Noite
+37,Sim,4.25,Worsened,YouTube,Noite
+16,Não,6.55,Improved,YouTube,Tarde
+18,Não,5.85,No Change,YouTube,Tarde
+17,Não,5.21,No Change,Facebook,Noite
+21,Não,6.25,No Change,TikTok,Manha
+43,Sim,4.83,No Change,YouTube,Noite
+42,Sim,4.44,No Change,YouTube,Noite
+57,Sim,3.8,No Change,Facebook,Noite
+32,Sim,3.32,No Change,Facebook,Noite
+33,Sim,4.76,No Change,YouTube,Noite
+46,Sim,4.65,Worsened,Instagram,Noite
+44,Sim,4.44,Improved,YouTube,Noite
+53,Sim,3.54,No Change,YouTube,Noite
+49,Sim,3.8,No Change,Facebook,Noite
+31,Sim,3.21,Worsened,Facebook,Noite
+36,Sim,3.38,No Change,YouTube,Noite
+44,Sim,4.57,Worsened,YouTube,Noite
+10,Não,7.43,Worsened,YouTube,Tarde
+44,Sim,4.41,No Change,Facebook,Noite
+46,Sim,3.13,Improved,YouTube,Noite
+56,Sim,4.68,No Change,YouTube,Noite
+23,Sim,5.36,Improved,Twitter,Noite
+12,Não,7.88,No Change,Instagram,Manha
+10,Não,7.86,Worsened,TikTok,Manha
+14,Não,6.72,Improved,Instagram,Noite
+35,Sim,4.13,Improved,Twitter,Noite
+23,Não,5.25,Improved,TikTok,Tarde
+48,Sim,4.78,Worsened,YouTube,Noite
+36,Sim,3.87,No Change,Twitter,Noite
+18,Sim,5.51,Improved,YouTube,Noite
+24,Não,7.86,Worsened,Facebook,Manha
+24,Sim,6.75,Worsened,Twitter,Noite
+35,Sim,3.99,Improved,Facebook,Noite
+51,Sim,3.78,No Change,Twitter,Noite
+22,Sim,7.38,Worsened,Twitter,Noite
+60,Sim,4.35,No Change,Facebook,Noite
+41,Sim,3.28,Improved,TikTok,Noite
+48,Sim,3.51,Improved,Instagram,Noite
+58,Sim,4.75,Improved,YouTube,Noite
+41,Sim,3.37,Worsened,Twitter,Noite
+13,Não,6.56,Worsened,YouTube,Noite
+39,Sim,4.9,Improved,Facebook,Noite
+46,Sim,4.41,Improved,YouTube,Noite
+32,Sim,3.6,Improved,Facebook,Noite
+48,Sim,3.21,Improved,YouTube,Noite
+54,Sim,4.56,Worsened,Instagram,Noite
+24,Não,8.0,No Change,Instagram,Manha
+52,Sim,3.72,No Change,Instagram,Noite
+38,Sim,4.91,Improved,Instagram,Noite
+45,Sim,4.0,No Change,Instagram,Noite
+22,Sim,5.9,No Change,Instagram,Noite
+41,Sim,3.22,Worsened,Facebook,Noite
+16,Não,5.47,Improved,Twitter,Manha
+60,Sim,3.1,Worsened,YouTube,Noite
+31,Sim,4.54,No Change,Instagram,Noite
+37,Sim,3.83,Improved,Facebook,Noite
+11,Não,7.64,No Change,Facebook,Noite
+51,Sim,4.44,Worsened,Facebook,Noite
+54,Sim,3.74,Worsened,Twitter,Noite
+15,Não,7.74,No Change,YouTube,Tarde
+37,Sim,4.76,No Change,Twitter,Noite
+37,Sim,3.43,Worsened,TikTok,Noite
+53,Sim,4.36,No Change,Facebook,Noite
+53,Sim,4.22,Improved,TikTok,Noite
+29,Sim,3.59,Worsened,Instagram,Noite
+39,Sim,3.27,Improved,Instagram,Noite
+20,Sim,4.5,No Change,Twitter,Noite
+37,Sim,4.47,Improved,YouTube,Noite
+34,Sim,4.95,Improved,TikTok,Noite
+48,Sim,3.1,No Change,YouTube,Noite
+42,Sim,4.36,Worsened,Twitter,Noite
+10,Não,6.94,Improved,Instagram,Manha
+36,Sim,4.78,Improved,YouTube,Noite
+22,Não,4.17,Improved,YouTube,Manha
+50,Sim,3.12,No Change,Instagram,Noite
+12,Não,6.22,Worsened,TikTok,Tarde
+48,Sim,4.09,No Change,Instagram,Noite
+15,Não,6.2,No Change,YouTube,Tarde
+17,Não,4.97,Worsened,TikTok,Tarde
+36,Sim,3.67,No Change,TikTok,Noite
+18,Não,6.84,Improved,Instagram,Tarde
+46,Sim,3.83,Improved,YouTube,Noite
+42,Sim,3.99,No Change,Twitter,Noite
+60,Sim,3.81,No Change,YouTube,Noite
+51,Sim,4.06,No Change,Facebook,Noite
+53,Sim,4.19,Worsened,Twitter,Noite
+33,Sim,3.02,No Change,TikTok,Noite
+24,Sim,7.51,No Change,Twitter,Noite
+41,Sim,3.08,No Change,TikTok,Noite
+41,Sim,3.8,No Change,TikTok,Noite
+33,Sim,4.52,Worsened,Twitter,Noite
+50,Sim,3.91,No Change,TikTok,Noite
+58,Sim,3.53,Improved,TikTok,Noite
+58,Sim,3.44,Worsened,Facebook,Noite
+21,Não,7.9,No Change,YouTube,Noite
+48,Sim,4.15,No Change,YouTube,Noite
+11,Não,6.15,No Change,Facebook,Noite
+12,Não,7.61,No Change,Twitter,Tarde
+58,Sim,3.36,Worsened,Instagram,Noite
+46,Sim,3.87,Improved,Instagram,Noite
+58,Sim,3.66,No Change,Instagram,Noite
+26,Sim,3.68,Improved,Facebook,Noite
+58,Sim,4.48,Worsened,Facebook,Noite
+11,Não,6.45,Improved,TikTok,Manha
+11,Não,6.74,Worsened,Instagram,Noite
+37,Sim,4.33,No Change,Twitter,Noite
+32,Sim,4.1,Worsened,Twitter,Noite
+46,Sim,4.76,Worsened,Instagram,Noite
+41,Sim,4.35,Worsened,Instagram,Noite
+42,Sim,4.09,Worsened,Instagram,Noite
+10,Não,7.66,No Change,Facebook,Noite
+28,Sim,4.56,No Change,Facebook,Noite
+11,Não,6.92,Improved,Facebook,Tarde
+53,Sim,3.3,Improved,YouTube,Noite
+35,Sim,4.8,No Change,Twitter,Noite
+41,Sim,4.42,No Change,Twitter,Noite
+15,Não,7.87,No Change,TikTok,Tarde
+41,Sim,3.97,No Change,Facebook,Noite
+13,Não,7.49,Worsened,YouTube,Noite
+20,Não,4.23,No Change,YouTube,Tarde
+26,Sim,4.98,Worsened,Twitter,Noite
+47,Sim,3.48,Worsened,Facebook,Noite
+33,Sim,4.06,Worsened,TikTok,Noite
+14,Não,7.3,No Change,Facebook,Noite
+43,Sim,4.93,Worsened,Instagram,Noite
+15,Não,6.15,Worsened,Facebook,Manha
+31,Sim,3.41,Worsened,Instagram,Noite
+20,Não,4.78,Improved,Instagram,Tarde
+57,Sim,4.79,No Change,TikTok,Noite
+25,Sim,4.69,No Change,Twitter,Noite
+42,Sim,3.63,Improved,Facebook,Noite
+18,Sim,4.59,No Change,Instagram,Noite
+15,Não,7.62,Worsened,Facebook,Noite
+25,Sim,3.33,Worsened,Twitter,Noite
+38,Sim,4.29,Improved,Twitter,Noite
+12,Não,7.62,Worsened,YouTube,Noite
+29,Sim,4.83,No Change,Twitter,Noite
+45,Sim,3.58,Worsened,TikTok,Noite
+28,Sim,3.94,Worsened,Instagram,Noite
+35,Sim,4.78,No Change,YouTube,Noite
+12,Não,7.42,No Change,TikTok,Tarde
+28,Sim,4.38,Worsened,Facebook,Noite
+29,Sim,4.86,No Change,Instagram,Noite
+41,Sim,3.99,Improved,Twitter,Noite
+16,Sim,5.79,Worsened,Instagram,Noite
+50,Sim,3.27,No Change,Facebook,Noite
+42,Sim,4.92,Worsened,YouTube,Noite
+49,Sim,4.06,No Change,YouTube,Noite
+48,Sim,3.48,Worsened,YouTube,Noite
+27,Sim,4.0,Improved,Twitter,Noite
+49,Sim,4.36,Worsened,TikTok,Noite
+10,Não,6.15,Worsened,TikTok,Tarde
+20,Não,7.23,Improved,Instagram,Tarde
+37,Sim,4.09,No Change,Twitter,Noite
+34,Sim,3.36,Worsened,YouTube,Noite
+59,Sim,3.92,No Change,YouTube,Noite
+32,Sim,4.12,Improved,Facebook,Noite
+40,Sim,4.73,No Change,Facebook,Noite
+39,Sim,3.96,No Change,YouTube,Noite
+51,Sim,4.8,Worsened,YouTube,Noite
+44,Sim,4.35,No Change,Twitter,Noite
+16,Sim,7.92,No Change,TikTok,Noite
+25,Sim,4.59,Improved,Facebook,Noite
+35,Sim,4.71,No Change,TikTok,Noite
+57,Sim,3.48,No Change,Twitter,Noite
+58,Sim,4.92,Improved,YouTube,Noite
+11,Não,6.39,Worsened,TikTok,Noite
+10,Não,7.0,No Change,YouTube,Noite
+57,Sim,4.96,No Change,YouTube,Noite
+21,Sim,4.88,Worsened,Instagram,Noite
+14,Não,6.92,No Change,TikTok,Tarde
+46,Sim,4.19,Worsened,TikTok,Noite
+41,Sim,3.15,No Change,YouTube,Noite
+18,Não,4.05,Improved,Twitter,Tarde
+50,Sim,3.38,No Change,Instagram,Noite
+44,Sim,4.59,No Change,YouTube,Noite
+28,Sim,4.82,Worsened,Facebook,Noite
+57,Sim,4.89,Improved,Facebook,Noite
+25,Sim,4.92,Improved,Instagram,Noite
+12,Não,7.04,Improved,Twitter,Tarde
+29,Sim,4.93,Improved,YouTube,Noite
+33,Sim,3.79,Worsened,TikTok,Noite
+42,Sim,4.71,Improved,Instagram,Noite
+33,Sim,4.55,No Change,Twitter,Noite
+20,Não,4.99,No Change,TikTok,Manha
+58,Sim,3.92,No Change,Facebook,Noite
+17,Sim,4.65,Worsened,Facebook,Noite
+45,Sim,4.13,No Change,TikTok,Noite
+47,Sim,4.54,Worsened,Instagram,Noite
+49,Sim,4.0,No Change,Facebook,Noite
+29,Sim,3.02,No Change,YouTube,Noite
+44,Sim,3.02,Worsened,TikTok,Noite
+57,Sim,3.71,Improved,TikTok,Noite
+34,Sim,4.85,Improved,Facebook,Noite
+44,Sim,3.46,Worsened,Instagram,Noite
+34,Sim,4.27,Improved,YouTube,Noite
+38,Sim,3.44,Worsened,Instagram,Noite
+27,Sim,3.64,No Change,Twitter,Noite
+55,Sim,4.7,Worsened,Twitter,Noite
+27,Sim,4.46,Worsened,Facebook,Noite
+11,Não,6.19,No Change,Facebook,Manha
+44,Sim,3.49,Worsened,Facebook,Noite
+25,Sim,3.81,No Change,Twitter,Noite
+50,Sim,4.79,Worsened,Instagram,Noite
+45,Sim,3.0,Improved,Instagram,Noite
+42,Sim,4.8,No Change,Facebook,Noite
+13,Não,6.31,Improved,YouTube,Noite
+42,Sim,4.84,No Change,Instagram,Noite
+23,Sim,5.98,Improved,Twitter,Noite
+30,Sim,4.03,Worsened,TikTok,Noite
+57,Sim,3.96,Worsened,TikTok,Noite
+29,Sim,4.27,Worsened,TikTok,Noite
+17,Não,7.02,Improved,YouTube,Noite
+16,Sim,7.8,No Change,Facebook,Noite
+12,Não,7.15,No Change,Twitter,Tarde
+26,Sim,4.24,No Change,YouTube,Noite
+42,Sim,4.98,No Change,Twitter,Noite
+57,Sim,3.77,No Change,Twitter,Noite
+21,Sim,5.43,Worsened,Facebook,Noite
+60,Sim,4.31,No Change,TikTok,Noite
+31,Sim,3.48,No Change,Facebook,Noite
+31,Sim,3.38,Improved,YouTube,Noite
+55,Sim,4.84,Improved,YouTube,Noite
+39,Sim,3.2,Improved,YouTube,Noite
+47,Sim,4.01,Worsened,Facebook,Noite
+47,Sim,3.44,Improved,Twitter,Noite
+54,Sim,3.08,Improved,Twitter,Noite
+60,Sim,3.07,No Change,Instagram,Noite
+17,Sim,4.59,Worsened,YouTube,Noite
+36,Sim,4.36,Worsened,Twitter,Noite
+36,Sim,3.45,Worsened,Instagram,Noite
+43,Sim,3.86,No Change,Twitter,Noite
+30,Sim,4.44,No Change,YouTube,Noite
+39,Sim,4.13,Improved,TikTok,Noite
+42,Sim,3.86,Worsened,YouTube,Noite
+37,Sim,3.65,Worsened,Facebook,Noite
+56,Sim,4.68,No Change,Twitter,Noite
+42,Sim,3.29,Worsened,Twitter,Noite
+14,Não,6.86,Worsened,Facebook,Noite
+57,Sim,4.89,No Change,Facebook,Noite
+28,Sim,4.79,Worsened,TikTok,Noite
+13,Não,6.84,Worsened,Twitter,Noite
+44,Sim,3.95,No Change,Twitter,Noite
+58,Sim,4.0,No Change,TikTok,Noite
+26,Sim,3.41,Improved,Instagram,Noite
+53,Sim,4.18,No Change,TikTok,Noite
+37,Sim,3.37,Improved,YouTube,Noite
+39,Sim,3.66,No Change,Twitter,Noite
+38,Sim,4.71,Worsened,Facebook,Noite
+55,Sim,3.41,No Change,YouTube,Noite
+15,Não,6.14,No Change,Twitter,Tarde
+44,Sim,4.88,No Change,TikTok,Noite
+50,Sim,4.01,Improved,YouTube,Noite
+46,Sim,3.82,Worsened,Twitter,Noite
+33,Sim,4.62,Improved,Instagram,Noite
+38,Sim,4.67,Improved,Instagram,Noite
+58,Sim,3.66,No Change,Facebook,Noite
+55,Sim,4.39,Worsened,Twitter,Noite
+40,Sim,4.54,Worsened,Instagram,Noite
+44,Sim,4.31,Improved,TikTok,Noite
+42,Sim,3.3,No Change,Twitter,Noite
+30,Sim,4.75,No Change,TikTok,Noite
+41,Sim,4.08,No Change,TikTok,Noite
+32,Sim,3.56,No Change,Instagram,Noite
+42,Sim,3.85,No Change,Twitter,Noite
+12,Não,6.08,No Change,YouTube,Tarde
+27,Sim,4.09,No Change,Instagram,Noite
+34,Sim,4.06,Worsened,Instagram,Noite
+51,Sim,4.18,No Change,Twitter,Noite
+40,Sim,3.12,No Change,Twitter,Noite
+12,Não,6.72,No Change,TikTok,Manha
+49,Sim,4.95,No Change,Twitter,Noite
+55,Sim,3.45,Worsened,TikTok,Noite
+33,Sim,3.61,No Change,Instagram,Noite
+59,Sim,3.61,No Change,Facebook,Noite
+41,Sim,3.46,Worsened,YouTube,Noite
+56,Sim,3.0,No Change,Instagram,Noite
+31,Sim,4.46,No Change,Twitter,Noite
+32,Sim,4.93,Worsened,YouTube,Noite
+11,Não,6.45,No Change,Facebook,Noite
+36,Sim,4.28,No Change,Facebook,Noite
+51,Sim,3.83,Worsened,TikTok,Noite
+11,Não,7.52,Improved,YouTube,Tarde
+35,Sim,3.61,Improved,TikTok,Noite
+26,Sim,3.65,No Change,Instagram,Noite
+49,Sim,4.43,Worsened,YouTube,Noite
+42,Sim,4.63,Improved,Instagram,Noite
+18,Não,4.5,Improved,TikTok,Noite
+52,Sim,5.0,Improved,YouTube,Noite
+57,Sim,3.81,Improved,TikTok,Noite
+48,Sim,3.44,Improved,YouTube,Noite
+38,Sim,4.52,No Change,TikTok,Noite
+51,Sim,4.08,No Change,Facebook,Noite
+35,Sim,3.3,Improved,TikTok,Noite
+44,Sim,3.76,No Change,Facebook,Noite
+59,Sim,3.83,Improved,TikTok,Noite
+34,Sim,4.51,No Change,YouTube,Noite
+33,Sim,3.04,No Change,YouTube,Noite
+22,Não,7.12,Worsened,YouTube,Manha
+16,Sim,7.81,Improved,Twitter,Noite
+45,Sim,3.08,No Change,Instagram,Noite
+54,Sim,3.53,Improved,YouTube,Noite
+29,Sim,4.2,Worsened,Facebook,Noite
+10,Não,6.59,Worsened,YouTube,Manha
+17,Sim,7.04,No Change,Twitter,Noite
+55,Sim,3.21,Improved,Facebook,Noite
+25,Sim,4.03,Worsened,Twitter,Noite
+23,Sim,4.69,Improved,Facebook,Noite
+21,Sim,7.73,Improved,TikTok,Noite
+60,Sim,4.66,No Change,Instagram,Noite
+32,Sim,4.39,Improved,Instagram,Noite
+24,Não,4.39,Worsened,Twitter,Tarde
+37,Sim,4.84,Worsened,Instagram,Noite
+43,Sim,4.39,Improved,Twitter,Noite
+11,Não,7.46,No Change,Twitter,Tarde
+41,Sim,3.69,Worsened,Twitter,Noite
+32,Sim,3.06,Worsened,Instagram,Noite
+31,Sim,3.1,No Change,Twitter,Noite
+60,Sim,3.28,Worsened,Instagram,Noite
+34,Sim,3.43,Worsened,Twitter,Noite
+31,Sim,4.33,Worsened,YouTube,Noite
+31,Sim,3.31,Improved,Twitter,Noite
+58,Sim,3.24,No Change,Facebook,Noite
+51,Sim,4.53,Worsened,Twitter,Noite
+15,Não,7.34,Improved,TikTok,Manha
+24,Sim,6.2,Worsened,Twitter,Noite
+52,Sim,3.62,Improved,Facebook,Noite
+46,Sim,3.97,Improved,Facebook,Noite
+42,Sim,4.01,No Change,Instagram,Noite
+17,Não,6.94,Improved,YouTube,Tarde
+53,Sim,3.03,Worsened,Twitter,Noite
+53,Sim,4.56,Worsened,Instagram,Noite
+14,Não,6.25,Worsened,YouTube,Tarde
+48,Sim,4.41,No Change,Twitter,Noite
+13,Não,7.94,Improved,TikTok,Manha
+15,Não,6.2,No Change,Twitter,Noite
+54,Sim,4.0,No Change,Facebook,Noite
+41,Sim,4.41,No Change,Facebook,Noite
+39,Sim,4.07,Improved,TikTok,Noite
+56,Sim,4.08,No Change,Instagram,Noite
+44,Sim,3.86,No Change,YouTube,Noite
+49,Sim,3.62,Worsened,Twitter,Noite
+25,Sim,3.96,Worsened,Facebook,Noite
+22,Não,4.72,No Change,Instagram,Tarde
+59,Sim,4.11,No Change,TikTok,Noite
+51,Sim,3.79,Worsened,Facebook,Noite
+39,Sim,3.26,Improved,TikTok,Noite
+28,Sim,4.73,Worsened,Twitter,Noite
+26,Sim,3.31,Worsened,YouTube,Noite
+28,Sim,3.62,No Change,Facebook,Noite
+37,Sim,3.58,No Change,Facebook,Noite
+35,Sim,4.74,Improved,Twitter,Noite
+46,Sim,4.35,No Change,Instagram,Noite
+35,Sim,4.59,Improved,YouTube,Noite
+32,Sim,3.5,Worsened,Facebook,Noite
+18,Não,7.74,Improved,YouTube,Tarde
+21,Não,7.93,No Change,Facebook,Noite
+10,Não,6.02,Worsened,YouTube,Manha
+10,Não,7.1,Worsened,TikTok,Tarde
+56,Sim,3.78,Improved,Facebook,Noite
+43,Sim,3.38,Improved,YouTube,Noite
+41,Sim,3.82,Improved,Instagram,Noite
+57,Sim,4.87,No Change,TikTok,Noite
+34,Sim,3.86,Improved,TikTok,Noite
+49,Sim,4.76,No Change,Instagram,Noite
+54,Sim,4.21,Worsened,YouTube,Noite
+10,Não,6.49,Improved,Twitter,Manha
+25,Sim,3.57,Worsened,Instagram,Noite
+48,Sim,3.87,Worsened,YouTube,Noite
+14,Não,7.37,Improved,Instagram,Manha
+31,Sim,3.14,Worsened,Instagram,Noite
+38,Sim,3.41,No Change,Facebook,Noite
+12,Não,6.76,Worsened,YouTube,Manha
+21,Sim,7.14,No Change,Twitter,Noite
+35,Sim,4.47,No Change,Facebook,Noite
+25,Sim,3.23,No Change,Instagram,Noite
+60,Sim,4.56,Worsened,Instagram,Noite
+46,Sim,4.57,Worsened,Instagram,Noite
+31,Sim,4.2,No Change,YouTube,Noite
+38,Sim,4.98,Worsened,YouTube,Noite
+23,Não,5.11,Improved,Facebook,Tarde
+37,Sim,4.83,Improved,Twitter,Noite
+14,Não,6.02,Improved,Facebook,Tarde
+56,Sim,4.04,No Change,TikTok,Noite
+58,Sim,3.36,Improved,Instagram,Noite
+39,Sim,4.94,Worsened,Instagram,Noite
+55,Sim,3.23,Improved,Instagram,Noite
+14,Não,6.81,No Change,Facebook,Manha
+21,Não,6.82,Improved,Facebook,Manha
+25,Sim,3.41,Worsened,Instagram,Noite
+35,Sim,4.04,Worsened,Facebook,Noite
+35,Sim,3.15,No Change,YouTube,Noite
+57,Sim,4.21,Worsened,YouTube,Noite
+30,Sim,4.03,Improved,Facebook,Noite
+48,Sim,4.48,Worsened,Instagram,Noite
+45,Sim,4.26,Improved,Facebook,Noite
+42,Sim,4.1,Worsened,Facebook,Noite
+39,Sim,4.38,Improved,Facebook,Noite
+46,Sim,3.29,No Change,TikTok,Noite
+32,Sim,4.19,Worsened,YouTube,Noite
+19,Sim,4.3,Improved,Twitter,Noite
+14,Não,7.9,Improved,Twitter,Noite
+45,Sim,3.86,Improved,TikTok,Noite
+43,Sim,4.39,No Change,Facebook,Noite
+40,Sim,3.92,No Change,TikTok,Noite
+19,Sim,6.59,Improved,TikTok,Noite
+28,Sim,3.53,No Change,Instagram,Noite
+41,Sim,3.03,Improved,YouTube,Noite
+10,Não,7.93,Worsened,Twitter,Noite
+14,Não,7.13,Improved,Facebook,Manha
+54,Sim,4.41,Improved,Twitter,Noite
+13,Não,7.22,Improved,Twitter,Manha
+25,Sim,4.05,No Change,YouTube,Noite
+33,Sim,3.5,Worsened,Twitter,Noite
+25,Sim,3.0,No Change,Twitter,Noite
+11,Não,6.35,Improved,TikTok,Noite
+58,Sim,3.21,Worsened,YouTube,Noite
+37,Sim,3.31,Worsened,Instagram,Noite
+41,Sim,4.89,Improved,Facebook,Noite
+36,Sim,4.47,Worsened,Twitter,Noite
+29,Sim,4.77,Worsened,Facebook,Noite
+33,Sim,3.41,Improved,Instagram,Noite
+21,Não,6.5,Worsened,Facebook,Tarde
+59,Sim,4.36,Worsened,Instagram,Noite
+44,Sim,3.82,No Change,TikTok,Noite
+42,Sim,3.03,Improved,Twitter,Noite
+42,Sim,4.17,Improved,Instagram,Noite
+60,Sim,3.51,Worsened,Facebook,Noite
+52,Sim,3.9,Worsened,Twitter,Noite
+46,Sim,4.92,No Change,TikTok,Noite
+21,Não,6.9,No Change,Twitter,Tarde
+12,Não,6.38,No Change,Instagram,Tarde
+10,Não,7.95,No Change,TikTok,Manha
+42,Sim,4.0,No Change,Facebook,Noite
+49,Sim,4.49,Improved,TikTok,Noite
+19,Não,4.37,Worsened,TikTok,Noite
+52,Sim,3.17,No Change,YouTube,Noite
+53,Sim,4.61,Worsened,TikTok,Noite
+38,Sim,4.72,Improved,TikTok,Noite
+22,Não,5.74,Improved,Twitter,Manha
+21,Sim,4.04,Improved,Facebook,Noite
+40,Sim,4.18,No Change,Twitter,Noite
+55,Sim,4.23,Worsened,Twitter,Noite
+11,Não,7.28,Improved,Instagram,Tarde
+60,Sim,4.4,Worsened,Twitter,Noite
+59,Sim,3.41,No Change,YouTube,Noite
+44,Sim,4.31,Worsened,YouTube,Noite
+32,Sim,4.64,Improved,Instagram,Noite
+26,Sim,3.1,Worsened,Facebook,Noite
+35,Sim,4.82,Worsened,Facebook,Noite
+17,Não,4.99,Improved,Twitter,Manha
+38,Sim,3.03,Improved,Twitter,Noite
+35,Sim,3.15,Worsened,Twitter,Noite
+19,Não,4.25,Worsened,Facebook,Manha
+35,Sim,3.85,Improved,TikTok,Noite
+43,Sim,3.43,Worsened,YouTube,Noite
+60,Sim,4.19,Worsened,TikTok,Noite
+50,Sim,4.19,Worsened,TikTok,Noite
+16,Não,7.81,Worsened,Facebook,Tarde
+13,Não,7.77,Worsened,TikTok,Noite
+59,Sim,4.65,No Change,Instagram,Noite
+54,Sim,4.87,No Change,Twitter,Noite
+20,Sim,7.15,No Change,Instagram,Noite
+38,Sim,3.79,Worsened,YouTube,Noite
+45,Sim,4.03,Worsened,Twitter,Noite
+34,Sim,3.51,Improved,TikTok,Noite
+30,Sim,4.98,Worsened,YouTube,Noite
+45,Sim,3.58,Worsened,Twitter,Noite
+19,Não,5.48,No Change,TikTok,Manha
+46,Sim,3.41,No Change,Instagram,Noite
+18,Sim,6.15,No Change,Twitter,Noite
+33,Sim,3.54,Improved,TikTok,Noite
+44,Sim,3.74,Improved,Instagram,Noite
+58,Sim,4.79,Improved,YouTube,Noite
+44,Sim,4.33,Improved,YouTube,Noite
+57,Sim,4.57,No Change,YouTube,Noite
+45,Sim,3.91,No Change,YouTube,Noite
+27,Sim,4.26,Improved,Facebook,Noite
+58,Sim,3.5,Worsened,Twitter,Noite
+48,Sim,4.41,Improved,Twitter,Noite
+41,Sim,3.86,Worsened,Facebook,Noite
+33,Sim,3.89,Worsened,TikTok,Noite
+32,Sim,4.3,Improved,TikTok,Noite
+41,Sim,4.87,No Change,YouTube,Noite
+46,Sim,3.13,Improved,Instagram,Noite
+21,Não,6.0,No Change,TikTok,Noite
+58,Sim,4.2,No Change,Instagram,Noite
+22,Sim,5.2,Improved,Twitter,Noite
+32,Sim,4.01,No Change,Instagram,Noite
+34,Sim,3.11,Improved,Twitter,Noite
+44,Sim,3.98,Improved,Facebook,Noite
+50,Sim,4.85,No Change,Facebook,Noite
+39,Sim,3.21,No Change,YouTube,Noite
+26,Sim,4.53,No Change,TikTok,Noite
+58,Sim,3.82,No Change,YouTube,Noite
+29,Sim,4.31,Worsened,Twitter,Noite
+57,Sim,3.52,Improved,YouTube,Noite
+34,Sim,3.32,No Change,Instagram,Noite
+31,Sim,3.32,No Change,Twitter,Noite
+22,Sim,7.15,No Change,Facebook,Noite
+28,Sim,4.89,Worsened,TikTok,Noite
+58,Sim,4.49,Worsened,Twitter,Noite
+45,Sim,4.44,No Change,Twitter,Noite
+21,Sim,6.74,Worsened,Instagram,Noite
+50,Sim,3.22,Worsened,TikTok,Noite
+28,Sim,3.58,Worsened,Facebook,Noite
+21,Não,7.7,Worsened,Twitter,Noite
+18,Não,6.21,Worsened,Twitter,Manha
+16,Sim,6.97,Improved,Instagram,Noite
+37,Sim,3.15,Improved,YouTube,Noite
+23,Não,7.16,No Change,Facebook,Noite
+40,Sim,3.43,Improved,TikTok,Noite
+28,Sim,4.62,No Change,Twitter,Noite
+56,Sim,4.57,Improved,Twitter,Noite
+25,Sim,4.26,No Change,Facebook,Noite
+14,Não,6.75,Worsened,YouTube,Tarde
+44,Sim,4.88,Worsened,Twitter,Noite
+21,Sim,5.27,Improved,Facebook,Noite
+34,Sim,4.81,No Change,Instagram,Noite
+30,Sim,3.16,Worsened,YouTube,Noite
+45,Sim,4.66,Improved,TikTok,Noite
+32,Sim,3.7,Worsened,Twitter,Noite
+25,Sim,4.04,No Change,Facebook,Noite
+48,Sim,4.59,No Change,Instagram,Noite
+54,Sim,4.77,Worsened,TikTok,Noite
+51,Sim,3.69,Improved,Facebook,Noite
+48,Sim,3.92,No Change,Facebook,Noite
+23,Não,5.76,Worsened,TikTok,Tarde
+40,Sim,3.59,Improved,Instagram,Noite
+14,Não,6.92,No Change,Instagram,Noite
+44,Sim,3.36,Worsened,YouTube,Noite
+32,Sim,4.39,Improved,Twitter,Noite
+38,Sim,3.46,Worsened,TikTok,Noite
+52,Sim,3.24,No Change,TikTok,Noite
+20,Sim,6.96,No Change,TikTok,Noite
+27,Sim,4.73,No Change,Instagram,Noite
+56,Sim,4.06,Improved,Twitter,Noite
+21,Não,6.06,Worsened,YouTube,Tarde
+18,Não,4.33,Worsened,Facebook,Manha
+19,Não,4.66,No Change,Facebook,Tarde
+53,Sim,4.76,Worsened,TikTok,Noite
+26,Sim,3.24,No Change,Twitter,Noite
+47,Sim,4.27,No Change,Instagram,Noite
+16,Sim,4.89,No Change,Twitter,Noite
+55,Sim,4.04,No Change,Twitter,Noite
+22,Não,5.24,No Change,Instagram,Noite
+49,Sim,3.12,Worsened,TikTok,Noite
+51,Sim,3.78,No Change,Twitter,Noite
+18,Sim,5.34,Improved,Facebook,Noite
+59,Sim,4.5,Improved,Instagram,Noite
+36,Sim,4.14,No Change,YouTube,Noite
+11,Não,7.97,Worsened,TikTok,Manha
+14,Não,6.83,No Change,Instagram,Tarde
+38,Sim,4.74,No Change,YouTube,Noite
+46,Sim,4.36,No Change,YouTube,Noite
+47,Sim,3.82,No Change,Twitter,Noite
+28,Sim,4.51,No Change,Twitter,Noite
+17,Sim,6.0,No Change,Twitter,Noite
+57,Sim,3.82,Worsened,Instagram,Noite
+54,Sim,4.74,Worsened,Instagram,Noite
+10,Não,7.26,No Change,TikTok,Noite
+31,Sim,3.23,Improved,Twitter,Noite
+26,Sim,4.21,Improved,YouTube,Noite
+16,Não,7.73,Improved,Facebook,Noite
+34,Sim,3.29,No Change,TikTok,Noite
+54,Sim,4.38,No Change,Instagram,Noite
+13,Não,6.41,No Change,TikTok,Manha
+45,Sim,4.53,No Change,TikTok,Noite
+15,Não,7.36,Improved,TikTok,Tarde
+40,Sim,4.02,No Change,TikTok,Noite
+28,Sim,3.84,Improved,Facebook,Noite
+53,Sim,3.04,No Change,Twitter,Noite
+48,Sim,4.59,Improved,YouTube,Noite
+36,Sim,3.14,Worsened,TikTok,Noite
+19,Sim,5.63,Improved,TikTok,Noite
+35,Sim,4.77,Worsened,TikTok,Noite
+28,Sim,3.44,No Change,Twitter,Noite
+48,Sim,4.43,Worsened,Instagram,Noite
+12,Não,7.76,No Change,Instagram,Tarde
+54,Sim,4.45,Worsened,Facebook,Noite
+22,Não,7.01,Worsened,Instagram,Manha
+59,Sim,4.64,No Change,TikTok,Noite
+37,Sim,4.69,No Change,TikTok,Noite
+29,Sim,3.97,No Change,TikTok,Noite
+37,Sim,3.67,No Change,Facebook,Noite
+17,Sim,6.13,Improved,TikTok,Noite
+50,Sim,4.02,No Change,Instagram,Noite
+48,Sim,4.64,No Change,Twitter,Noite
+10,Não,6.81,No Change,Twitter,Noite
+12,Não,6.93,Worsened,YouTube,Manha
+22,Não,5.55,No Change,Instagram,Tarde
+37,Sim,4.8,Worsened,TikTok,Noite
+58,Sim,3.41,Improved,Twitter,Noite
+34,Sim,3.13,No Change,Instagram,Noite
+42,Sim,4.75,No Change,Twitter,Noite
+47,Sim,3.78,No Change,TikTok,Noite
+15,Não,7.08,Worsened,Twitter,Noite
+53,Sim,3.13,Improved,YouTube,Noite
+54,Sim,4.3,Worsened,YouTube,Noite
+41,Sim,3.15,No Change,Twitter,Noite
+54,Sim,3.75,No Change,Instagram,Noite
+56,Sim,4.61,No Change,Instagram,Noite
+30,Sim,3.87,No Change,Instagram,Noite
+25,Sim,4.99,No Change,Twitter,Noite
+30,Sim,4.12,No Change,Instagram,Noite
+20,Sim,5.79,Improved,TikTok,Noite
+46,Sim,3.14,No Change,YouTube,Noite
+45,Sim,4.46,Improved,TikTok,Noite
+44,Sim,4.22,No Change,Instagram,Noite
+28,Sim,4.41,No Change,TikTok,Noite
+29,Sim,3.75,No Change,Instagram,Noite
+27,Sim,3.74,No Change,Twitter,Noite
+56,Sim,3.09,Improved,TikTok,Noite
+50,Sim,3.7,No Change,Twitter,Noite
+58,Sim,4.86,No Change,Twitter,Noite
+23,Não,4.87,No Change,Facebook,Tarde
+24,Não,5.94,Worsened,Instagram,Noite
+40,Sim,4.61,Improved,YouTube,Noite
+10,Não,7.55,No Change,Instagram,Noite
+12,Não,6.1,No Change,YouTube,Manha
+25,Sim,4.17,No Change,Instagram,Noite
+32,Sim,4.56,Improved,Twitter,Noite
+20,Sim,5.4,Improved,TikTok,Noite
+21,Não,6.07,Worsened,TikTok,Manha
+19,Sim,6.68,No Change,Facebook,Noite
+41,Sim,4.24,No Change,YouTube,Noite
+25,Sim,4.48,No Change,YouTube,Noite
+17,Sim,6.65,No Change,YouTube,Noite
+47,Sim,3.69,Improved,Twitter,Noite
+21,Não,7.0,No Change,YouTube,Manha
+33,Sim,3.52,No Change,TikTok,Noite
+37,Sim,4.21,Worsened,Twitter,Noite
+17,Sim,6.62,Improved,Instagram,Noite
+37,Sim,4.78,No Change,YouTube,Noite
+45,Sim,4.16,No Change,YouTube,Noite
+35,Sim,4.26,No Change,Instagram,Noite
+17,Não,5.23,No Change,YouTube,Manha
+59,Sim,4.43,No Change,Instagram,Noite
+37,Sim,3.54,Worsened,Twitter,Noite
+37,Sim,3.4,Worsened,TikTok,Noite
+46,Sim,3.63,No Change,Instagram,Noite
+50,Sim,3.48,Worsened,Facebook,Noite
+45,Sim,3.43,No Change,Instagram,Noite
+36,Sim,3.85,No Change,YouTube,Noite
+26,Sim,4.82,Improved,Twitter,Noite
+18,Não,6.98,Worsened,Twitter,Manha
+42,Sim,4.17,Improved,Instagram,Noite
+29,Sim,3.27,Improved,TikTok,Noite
+22,Sim,7.29,Improved,Facebook,Noite
+37,Sim,4.32,No Change,Twitter,Noite
+57,Sim,4.59,Improved,YouTube,Noite
+38,Sim,3.54,Improved,YouTube,Noite
+22,Não,6.13,Improved,TikTok,Noite
+55,Sim,4.88,Improved,Twitter,Noite
+44,Sim,4.27,No Change,Instagram,Noite
+15,Não,6.65,No Change,YouTube,Manha
+27,Sim,4.65,No Change,TikTok,Noite
+60,Sim,3.93,No Change,Twitter,Noite
+14,Não,6.56,No Change,Twitter,Noite
+56,Sim,4.19,Improved,Twitter,Noite
+34,Sim,3.53,No Change,Twitter,Noite
+11,Não,7.32,Worsened,Twitter,Noite
+19,Sim,7.11,No Change,YouTube,Noite
+39,Sim,4.52,Improved,TikTok,Noite
+59,Sim,3.38,No Change,Twitter,Noite
+54,Sim,3.18,No Change,Facebook,Noite
+14,Não,7.4,No Change,Facebook,Manha
+42,Sim,3.86,Improved,TikTok,Noite
+10,Não,6.06,Improved,Instagram,Noite
+27,Sim,3.53,Improved,Instagram,Noite
+41,Sim,3.83,Worsened,Instagram,Noite
+56,Sim,4.78,Worsened,Facebook,Noite
+58,Sim,4.65,Improved,Instagram,Noite
+20,Não,4.16,Improved,YouTube,Tarde
+30,Sim,4.57,Worsened,Twitter,Noite
+35,Sim,3.86,Improved,Facebook,Noite
+34,Sim,3.4,Improved,TikTok,Noite
+31,Sim,4.03,Worsened,TikTok,Noite
+36,Sim,4.47,Improved,Twitter,Noite
+58,Sim,3.87,No Change,Facebook,Noite
+22,Sim,7.3,Worsened,Instagram,Noite
+42,Sim,4.69,No Change,Instagram,Noite
+43,Sim,3.5,Improved,YouTube,Noite
+50,Sim,4.15,Improved,YouTube,Noite
+44,Sim,3.13,Worsened,Instagram,Noite
+10,Não,6.19,Worsened,TikTok,Noite
+30,Sim,4.87,Worsened,TikTok,Noite
+57,Sim,4.6,Improved,YouTube,Noite
+15,Não,7.35,Worsened,Twitter,Noite
+37,Sim,5.0,Worsened,Instagram,Noite
+26,Sim,3.48,No Change,YouTube,Noite
+14,Não,6.08,Worsened,YouTube,Manha
+40,Sim,3.64,Worsened,Instagram,Noite
+14,Não,7.92,No Change,Instagram,Noite
+47,Sim,3.72,No Change,TikTok,Noite
+12,Não,7.57,No Change,Twitter,Noite
+32,Sim,3.03,Improved,Twitter,Noite
+46,Sim,3.16,No Change,Instagram,Noite
+46,Sim,3.62,No Change,Facebook,Noite
+19,Não,4.06,Worsened,YouTube,Tarde
+19,Não,6.49,Worsened,YouTube,Noite
+28,Sim,4.67,Worsened,Instagram,Noite
+26,Sim,4.24,Improved,Facebook,Noite
+30,Sim,4.13,Improved,TikTok,Noite
+23,Não,5.66,Improved,Instagram,Manha
+18,Não,5.56,No Change,Instagram,Manha
+55,Sim,4.28,Worsened,YouTube,Noite
+10,Não,7.47,Worsened,Instagram,Tarde
+60,Sim,4.41,No Change,Instagram,Noite
+54,Sim,3.78,Worsened,Instagram,Noite
+22,Não,6.28,Worsened,YouTube,Noite
+13,Não,7.86,No Change,TikTok,Tarde
+10,Não,6.74,Worsened,TikTok,Manha
+58,Sim,4.27,No Change,Instagram,Noite
+49,Sim,3.94,Improved,YouTube,Noite
+41,Sim,3.89,No Change,TikTok,Noite
+43,Sim,3.99,No Change,TikTok,Noite
+37,Sim,4.72,No Change,TikTok,Noite
+40,Sim,3.92,No Change,YouTube,Noite
+17,Não,6.37,No Change,YouTube,Noite
+48,Sim,4.9,No Change,Instagram,Noite
+35,Sim,4.67,No Change,Twitter,Noite
+43,Sim,3.72,No Change,TikTok,Noite
+12,Não,7.73,No Change,Twitter,Noite
+59,Sim,4.85,No Change,YouTube,Noite
+21,Não,6.0,Improved,YouTube,Manha
+10,Não,7.29,No Change,YouTube,Manha
+53,Sim,4.3,Improved,Twitter,Noite
+14,Não,6.55,No Change,YouTube,Noite
+39,Sim,4.5,Worsened,Instagram,Noite
+39,Sim,4.62,No Change,YouTube,Noite
+26,Sim,3.83,No Change,Facebook,Noite
+57,Sim,3.41,Worsened,Twitter,Noite
+56,Sim,3.08,Worsened,Facebook,Noite
+32,Sim,4.16,Worsened,YouTube,Noite
+24,Sim,7.35,Worsened,Instagram,Noite
+46,Sim,3.34,Improved,TikTok,Noite
+30,Sim,3.04,Improved,YouTube,Noite
+23,Não,4.1,No Change,Instagram,Noite
+11,Não,7.4,Improved,Twitter,Tarde
+20,Não,7.84,No Change,Facebook,Noite
+60,Sim,4.28,No Change,Facebook,Noite
+48,Sim,4.91,No Change,Facebook,Noite
+47,Sim,4.76,Worsened,Twitter,Noite
+43,Sim,4.17,Worsened,Instagram,Noite
+47,Sim,4.67,No Change,Twitter,Noite
+59,Sim,4.29,Worsened,Facebook,Noite
+43,Sim,3.16,No Change,YouTube,Noite
+27,Sim,4.48,Worsened,TikTok,Noite
+39,Sim,3.19,Improved,Twitter,Noite
+24,Sim,4.21,Worsened,Twitter,Noite
+36,Sim,3.06,No Change,Instagram,Noite
+60,Sim,3.85,No Change,Instagram,Noite
+43,Sim,3.17,Improved,Twitter,Noite
+47,Sim,4.21,No Change,Facebook,Noite
+42,Sim,4.76,Improved,TikTok,Noite
+33,Sim,4.77,Improved,Instagram,Noite
+24,Não,6.39,No Change,Facebook,Manha
+39,Sim,4.95,No Change,YouTube,Noite
+51,Sim,4.37,No Change,Instagram,Noite
+60,Sim,3.75,Worsened,Facebook,Noite
+26,Sim,4.6,No Change,Facebook,Noite
+14,Não,7.77,No Change,TikTok,Manha
+38,Sim,4.99,Improved,TikTok,Noite
+13,Não,6.06,Worsened,YouTube,Tarde
+19,Sim,6.49,No Change,Facebook,Noite
+26,Sim,4.95,Worsened,Facebook,Noite
+19,Não,7.76,Worsened,TikTok,Manha
+26,Sim,3.12,No Change,Instagram,Noite
+29,Sim,3.67,Improved,Instagram,Noite
+33,Sim,3.13,Worsened,Twitter,Noite
+14,Não,7.95,Worsened,TikTok,Manha
+43,Sim,4.34,Improved,Twitter,Noite
+15,Não,7.78,Improved,TikTok,Manha
+11,Não,6.17,Worsened,YouTube,Noite
+22,Não,4.28,Improved,Facebook,Tarde
+52,Sim,3.46,Worsened,YouTube,Noite
+52,Sim,3.94,No Change,TikTok,Noite
+57,Sim,3.54,Improved,Facebook,Noite
+20,Não,4.3,Worsened,Instagram,Noite
+60,Sim,3.29,No Change,Instagram,Noite
+56,Sim,4.95,No Change,Twitter,Noite
+32,Sim,4.52,Improved,TikTok,Noite
+25,Sim,4.94,Improved,TikTok,Noite
+40,Sim,3.88,No Change,Instagram,Noite
+20,Não,4.62,No Change,YouTube,Noite
+25,Sim,3.65,No Change,Facebook,Noite
+17,Não,4.88,Worsened,YouTube,Tarde
+13,Não,6.51,No Change,YouTube,Manha
+49,Sim,3.71,Improved,Instagram,Noite
+13,Não,6.6,No Change,Instagram,Manha
+34,Sim,3.34,Worsened,Instagram,Noite
+12,Não,7.8,Worsened,Twitter,Tarde
+41,Sim,3.69,No Change,YouTube,Noite
+12,Não,7.73,Improved,TikTok,Noite
+36,Sim,3.54,No Change,Facebook,Noite
+38,Sim,3.2,Worsened,Twitter,Noite
+41,Sim,4.66,Worsened,TikTok,Noite
+59,Sim,4.41,No Change,YouTube,Noite
+60,Sim,4.23,Worsened,Instagram,Noite
+28,Sim,3.31,Worsened,YouTube,Noite
+30,Sim,3.96,Improved,Facebook,Noite
+14,Não,7.56,No Change,Twitter,Tarde
+27,Sim,3.62,Improved,Twitter,Noite
+37,Sim,3.01,Improved,Facebook,Noite
+51,Sim,3.35,Worsened,TikTok,Noite
+31,Sim,4.75,No Change,TikTok,Noite
+30,Sim,3.88,No Change,Twitter,Noite
+15,Não,7.97,Improved,Twitter,Tarde
+10,Não,7.64,No Change,Instagram,Tarde
+14,Não,6.56,Improved,TikTok,Tarde
+50,Sim,3.92,Improved,Facebook,Noite
+21,Sim,5.39,No Change,TikTok,Noite
+35,Sim,4.09,Improved,Instagram,Noite
+55,Sim,4.98,No Change,Twitter,Noite
+43,Sim,4.33,Improved,Twitter,Noite
+58,Sim,3.4,Improved,Instagram,Noite
+23,Sim,6.15,Improved,Facebook,Noite
+35,Sim,4.68,No Change,Twitter,Noite
+54,Sim,4.98,No Change,YouTube,Noite
+36,Sim,4.78,No Change,Twitter,Noite
+18,Não,4.06,No Change,YouTube,Manha
+35,Sim,3.98,Worsened,Instagram,Noite
+56,Sim,4.48,Improved,Instagram,Noite
+31,Sim,3.99,No Change,Twitter,Noite
+56,Sim,3.97,Worsened,TikTok,Noite
+39,Sim,4.68,No Change,YouTube,Noite
+52,Sim,3.72,No Change,Facebook,Noite
+57,Sim,4.72,Worsened,Twitter,Noite
+26,Sim,3.81,Worsened,Facebook,Noite
+35,Sim,3.66,Improved,Twitter,Noite
+45,Sim,3.91,No Change,TikTok,Noite
+10,Não,7.52,No Change,TikTok,Tarde
+17,Não,4.79,No Change,TikTok,Manha
+58,Sim,4.64,No Change,TikTok,Noite
+44,Sim,4.02,No Change,Instagram,Noite
+24,Sim,6.32,No Change,Instagram,Noite
+56,Sim,3.98,No Change,YouTube,Noite
+31,Sim,4.29,Worsened,Facebook,Noite
+23,Não,7.88,No Change,Twitter,Manha
+35,Sim,4.48,Improved,Twitter,Noite
+37,Sim,3.56,No Change,Instagram,Noite
+32,Sim,3.26,Improved,Twitter,Noite
+23,Não,4.74,No Change,Instagram,Tarde
+33,Sim,4.71,No Change,YouTube,Noite
+11,Não,6.98,Improved,Facebook,Tarde
+54,Sim,4.65,No Change,YouTube,Noite
+35,Sim,3.57,Improved,TikTok,Noite
+23,Sim,6.31,Improved,TikTok,Noite
+60,Sim,4.12,No Change,TikTok,Noite
+16,Não,4.57,No Change,YouTube,Tarde
+12,Não,6.51,Worsened,Twitter,Tarde
+56,Sim,3.73,No Change,Facebook,Noite
+32,Sim,3.17,No Change,TikTok,Noite
+55,Sim,4.11,No Change,TikTok,Noite
+52,Sim,4.69,Improved,TikTok,Noite
+56,Sim,4.59,Worsened,Facebook,Noite
+54,Sim,3.35,No Change,TikTok,Noite
+27,Sim,4.35,Worsened,Facebook,Noite
+47,Sim,3.44,Improved,TikTok,Noite
+44,Sim,3.44,No Change,YouTube,Noite
+60,Sim,4.75,No Change,YouTube,Noite
+24,Sim,6.36,Worsened,Facebook,Noite
+34,Sim,4.5,Improved,YouTube,Noite
+46,Sim,4.25,No Change,Facebook,Noite
+37,Sim,4.2,Worsened,YouTube,Noite
+19,Sim,6.51,No Change,YouTube,Noite
+48,Sim,4.5,No Change,Facebook,Noite
+26,Sim,3.3,Improved,Twitter,Noite
+48,Sim,3.92,Worsened,YouTube,Noite
+31,Sim,3.7,Improved,TikTok,Noite
+35,Sim,3.19,Worsened,Twitter,Noite
+53,Sim,3.97,Worsened,Facebook,Noite
+34,Sim,4.84,Improved,Twitter,Noite
+26,Sim,3.08,No Change,Instagram,Noite
+22,Não,6.44,Improved,Instagram,Noite
+29,Sim,3.48,Improved,YouTube,Noite
+34,Sim,4.82,Worsened,YouTube,Noite
+13,Não,6.94,Worsened,TikTok,Manha
+19,Não,7.04,No Change,Twitter,Noite
+12,Não,6.97,No Change,Instagram,Tarde
