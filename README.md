@@ -60,4 +60,6 @@ python main.py
 O objetivo do projeto é facilitar a visualização e compreensão de como diferentes perfis de pessoas utilizam as redes sociais, além de avaliar possíveis impactos no seu bem-estar.
 
 
-### Grupo: Arthur Luiz, Matheus Costa e Jõao Victor. 
+### Grupo: Arthur Luiz 202404250903
+### Matheus Costa 202308419269
+### Jõao Victor 202404420337
